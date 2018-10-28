@@ -10,7 +10,7 @@ body {
 	font-family: "Segoe UI Light","Segoe WP Light","Segoe UI","Segoe WP",Tahoma,Arial,sans-serif;
 }
 .container {
-	margin: auto auto;
+	margin: auto;
 	width: 80%;
 	background-color: rgb(255,255,255);
 	padding: 0;
